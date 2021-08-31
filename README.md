@@ -1,0 +1,9 @@
+- 👋  Hi, I'm  Edmilson 
+- 👀 I’m interested in get knowledge ...
+- 🌱 I’m currently studying Analysis and systems development  ...
+- 📫 How to reach me uaiedmilson@gmail.com ...
+
+<!---
+edquerino/edquerino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
